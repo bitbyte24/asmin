@@ -8,10 +8,10 @@ const roles = document.querySelector('.role');
 roles.innerHTML="<h3>What we do;</h3>\n\ngathering resources from well wishers in addition to our own contributed fund by registered members,to reach out to hold up the needy mostly children that need help.Not only help of children but also old vulnerable WAZEE(old men and women). \n\n\nbe helpful and share resources to save such lives; &nbsp;<i class='fa fa-thumbs-down'";
 
 const sub = document.querySelector('.sub-title');
-sub.innerHTML="<h4 style='color:white;font-size:large;'>arise and shine ministries<h4>";
+sub.innerHTML="<h4 style='color:white;font-size:large;'>arise and shine ministries international<h4>";
 
 const mission =document.querySelector('.mission');
-mission.innerHTML="<li>objective1</li><li>objective2</li><li>objective3</li><li>objective4</li><li>objective5</li><li>objective6</li>";
+mission.innerHTML="<li>to..........</li><li>to...........</li><li>to...........</li><li>to............</li><li>to</li>";
 
 const donators =document.getElementById('donateItem-');
 const donatorsBtn =document.getElementById('reachOut').addEventListener('click',function(){
